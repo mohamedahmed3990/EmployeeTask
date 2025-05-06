@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Projects_c#\\CRUD-Task.PL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF74B8E-DE57-4C96-BB2B-B89EC2E982FD}|CRUD-Task.PL\\CRUD-Task.PL.csproj|g:\\projects_c#\\crud-task.pl\\crud-task.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF74B8E-DE57-4C96-BB2B-B89EC2E982FD}|CRUD-Task.PL\\CRUD-Task.PL.csproj|solutionrelative:crud-task.pl\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E54E4F1-5303-4D24-BCF1-458A1DF88DE4}|CRUD-Task.BLL\\CRUD-Task.BLL.csproj|g:\\projects_c#\\crud-task.pl\\crud-task.bll\\services\\employeeservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E54E4F1-5303-4D24-BCF1-458A1DF88DE4}|CRUD-Task.BLL\\CRUD-Task.BLL.csproj|solutionrelative:crud-task.bll\\services\\employeeservices\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E54E4F1-5303-4D24-BCF1-458A1DF88DE4}|CRUD-Task.BLL\\CRUD-Task.BLL.csproj|g:\\projects_c#\\crud-task.pl\\crud-task.bll\\services\\employeeservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E54E4F1-5303-4D24-BCF1-458A1DF88DE4}|CRUD-Task.BLL\\CRUD-Task.BLL.csproj|solutionrelative:crud-task.bll\\services\\employeeservices\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120C22B2-389B-4A81-9F76-2D8092F4C77D}|CRUD-Test.DAL\\CRUD-Test.DAL.csproj|g:\\projects_c#\\crud-task.pl\\crud-test.dal\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120C22B2-389B-4A81-9F76-2D8092F4C77D}|CRUD-Test.DAL\\CRUD-Test.DAL.csproj|solutionrelative:crud-test.dal\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E54E4F1-5303-4D24-BCF1-458A1DF88DE4}|CRUD-Task.BLL\\CRUD-Task.BLL.csproj|g:\\projects_c#\\crud-task.pl\\crud-task.bll\\dtos\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E54E4F1-5303-4D24-BCF1-458A1DF88DE4}|CRUD-Task.BLL\\CRUD-Task.BLL.csproj|solutionrelative:crud-task.bll\\dtos\\employeeupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF74B8E-DE57-4C96-BB2B-B89EC2E982FD}|CRUD-Task.PL\\CRUD-Task.PL.csproj|g:\\projects_c#\\crud-task.pl\\crud-task.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DF74B8E-DE57-4C96-BB2B-B89EC2E982FD}|CRUD-Task.PL\\CRUD-Task.PL.csproj|solutionrelative:crud-task.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120C22B2-389B-4A81-9F76-2D8092F4C77D}|CRUD-Test.DAL\\CRUD-Test.DAL.csproj|g:\\projects_c#\\crud-task.pl\\crud-test.dal\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120C22B2-389B-4A81-9F76-2D8092F4C77D}|CRUD-Test.DAL\\CRUD-Test.DAL.csproj|solutionrelative:crud-test.dal\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{120C22B2-389B-4A81-9F76-2D8092F4C77D}|CRUD-Test.DAL\\CRUD-Test.DAL.csproj|g:\\projects_c#\\crud-task.pl\\crud-test.dal\\migrations\\20250505204430_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{120C22B2-389B-4A81-9F76-2D8092F4C77D}|CRUD-Test.DAL\\CRUD-Test.DAL.csproj|solutionrelative:crud-test.dal\\migrations\\20250505204430_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DF74B8E-DE57-4C96-BB2B-B89EC2E982FD}|CRUD-Task.PL\\CRUD-Task.PL.csproj|g:\\projects_c#\\crud-task.pl\\crud-task.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9DF74B8E-DE57-4C96-BB2B-B89EC2E982FD}|CRUD-Task.PL\\CRUD-Task.PL.csproj|solutionrelative:crud-task.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeUpdateDto.cs",
+              "DocumentMoniker": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Task.BLL\\DTOs\\EmployeeUpdateDto.cs",
+              "RelativeDocumentMoniker": "CRUD-Task.BLL\\DTOs\\EmployeeUpdateDto.cs",
+              "ToolTip": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Task.BLL\\DTOs\\EmployeeUpdateDto.cs",
+              "RelativeToolTip": "CRUD-Task.BLL\\DTOs\\EmployeeUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T21:53:06.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20250505204430_initialCreate.cs",
+              "DocumentMoniker": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Test.DAL\\Migrations\\20250505204430_initialCreate.cs",
+              "RelativeDocumentMoniker": "CRUD-Test.DAL\\Migrations\\20250505204430_initialCreate.cs",
+              "ToolTip": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Test.DAL\\Migrations\\20250505204430_initialCreate.cs",
+              "RelativeToolTip": "CRUD-Test.DAL\\Migrations\\20250505204430_initialCreate.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:44:30.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Task.PL\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD-Task.PL\\appsettings.json",
+              "ToolTip": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Task.PL\\appsettings.json",
+              "RelativeToolTip": "CRUD-Task.PL\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T20:26:25.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Task.PL\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD-Task.PL\\Program.cs",
+              "ToolTip": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Task.PL\\Program.cs",
+              "RelativeToolTip": "CRUD-Task.PL\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAowCoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T20:16:45.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Task.PL\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CRUD-Task.PL\\Controllers\\EmployeeController.cs",
+              "ToolTip": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Task.PL\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CRUD-Task.PL\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAIwDoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:34:31.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Test.DAL\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CRUD-Test.DAL\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Test.DAL\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "CRUD-Test.DAL\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:28:35.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Test.DAL\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "CRUD-Test.DAL\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Test.DAL\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "CRUD-Test.DAL\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:28:14.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Task.BLL\\Services\\EmployeeServices\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "CRUD-Task.BLL\\Services\\EmployeeServices\\EmployeeService.cs",
+              "ToolTip": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Task.BLL\\Services\\EmployeeServices\\EmployeeService.cs",
+              "RelativeToolTip": "CRUD-Task.BLL\\Services\\EmployeeServices\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:21:55.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Task.BLL\\Services\\EmployeeServices\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "CRUD-Task.BLL\\Services\\EmployeeServices\\IEmployeeService.cs",
+              "ToolTip": "G:\\Projects_c#\\CRUD-Task.PL\\CRUD-Task.BLL\\Services\\EmployeeServices\\IEmployeeService.cs",
+              "RelativeToolTip": "CRUD-Task.BLL\\Services\\EmployeeServices\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T19:16:54.639Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

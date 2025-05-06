@@ -1,0 +1,65 @@
+<section class="container px-4 mt-4 mb-5">
+    <div class="card shadow-sm border-0 rounded-4">
+      <div class="card-body p-5">
+        <h3 class="mb-4 fw-bold text-success">
+          <i class="fas fa-user-plus me-2"></i> Add New Employee
+        </h3>
+  
+        <form [formGroup]="AddEmployee" (ngSubmit)="onSubmit(AddEmployee)">
+          <div class="row g-4">
+            <!-- First Name -->
+            <div class="col-md-6">
+              <label for="firstName" class="form-label">First Name</label>
+              <div class="input-group">
+                <span class="input-group-text bg-light text-success">
+                  <i class="fas fa-user"></i>
+                </span>
+                <input type="text" class="form-control" formControlName="firstName" id="firstName" placeholder="John" required>
+              </div>
+            </div>
+  
+            <!-- Last Name -->
+            <div class="col-md-6">
+              <label for="lastName" class="form-label">Last Name</label>
+              <div class="input-group">
+                <span class="input-group-text bg-light text-success">
+                  <i class="fas fa-user-tag"></i>
+                </span>
+                <input type="text" class="form-control" formControlName="lastName" id="lastName" placeholder="Doe" required>
+              </div>
+            </div>
+  
+            <!-- Email -->
+            <div class="col-md-6">
+              <label for="email" class="form-label">Email Address</label>
+              <div class="input-group">
+                <span class="input-group-text bg-light text-success">
+                  <i class="fas fa-envelope"></i>
+                </span>
+                <input type="email" class="form-control" formControlName="email" id="email" placeholder="name@example.com" required>
+              </div>
+            </div>
+  
+            <!-- Position -->
+            <div class="col-md-6">
+              <label for="position" class="form-label">Position</label>
+              <div class="input-group">
+                <span class="input-group-text bg-light text-success">
+                  <i class="fas fa-briefcase"></i>
+                </span>
+                <input type="text" class="form-control" formControlName="position" id="position" placeholder="Manager" required>
+              </div>
+            </div>
+          </div>
+  
+          <!-- Submit Button -->
+          <div class="mt-5 d-grid">
+            <button type="submit" class="btn btn-success btn-lg">
+              <i class="fa-solid fa-plus me-2"></i> Add Employee
+            </button>
+          </div>
+        </form>
+      </div>
+    </div>
+  </section>
+  

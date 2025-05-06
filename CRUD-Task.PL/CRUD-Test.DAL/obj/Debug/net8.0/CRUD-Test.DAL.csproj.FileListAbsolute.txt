@@ -1,0 +1,12 @@
+G:\Projects_c#\CRUD-Task.PL\CRUD-Test.DAL\bin\Debug\net8.0\CRUD-Test.DAL.deps.json
+G:\Projects_c#\CRUD-Task.PL\CRUD-Test.DAL\bin\Debug\net8.0\CRUD-Test.DAL.dll
+G:\Projects_c#\CRUD-Task.PL\CRUD-Test.DAL\bin\Debug\net8.0\CRUD-Test.DAL.pdb
+G:\Projects_c#\CRUD-Task.PL\CRUD-Test.DAL\obj\Debug\net8.0\CRUD-Test.DAL.csproj.AssemblyReference.cache
+G:\Projects_c#\CRUD-Task.PL\CRUD-Test.DAL\obj\Debug\net8.0\CRUD-Test.DAL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects_c#\CRUD-Task.PL\CRUD-Test.DAL\obj\Debug\net8.0\CRUD-Test.DAL.AssemblyInfoInputs.cache
+G:\Projects_c#\CRUD-Task.PL\CRUD-Test.DAL\obj\Debug\net8.0\CRUD-Test.DAL.AssemblyInfo.cs
+G:\Projects_c#\CRUD-Task.PL\CRUD-Test.DAL\obj\Debug\net8.0\CRUD-Test.DAL.csproj.CoreCompileInputs.cache
+G:\Projects_c#\CRUD-Task.PL\CRUD-Test.DAL\obj\Debug\net8.0\CRUD-Test.DAL.dll
+G:\Projects_c#\CRUD-Task.PL\CRUD-Test.DAL\obj\Debug\net8.0\refint\CRUD-Test.DAL.dll
+G:\Projects_c#\CRUD-Task.PL\CRUD-Test.DAL\obj\Debug\net8.0\CRUD-Test.DAL.pdb
+G:\Projects_c#\CRUD-Task.PL\CRUD-Test.DAL\obj\Debug\net8.0\ref\CRUD-Test.DAL.dll

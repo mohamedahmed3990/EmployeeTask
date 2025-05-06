@@ -1,0 +1,15 @@
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\bin\Debug\net8.0\CRUD-Task.BLL.deps.json
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\bin\Debug\net8.0\CRUD-Task.BLL.dll
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\bin\Debug\net8.0\CRUD-Task.BLL.pdb
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\bin\Debug\net8.0\CRUD-Test.DAL.dll
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\bin\Debug\net8.0\CRUD-Test.DAL.pdb
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\obj\Debug\net8.0\CRUD-Task.BLL.csproj.AssemblyReference.cache
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\obj\Debug\net8.0\CRUD-Task.BLL.GeneratedMSBuildEditorConfig.editorconfig
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\obj\Debug\net8.0\CRUD-Task.BLL.AssemblyInfoInputs.cache
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\obj\Debug\net8.0\CRUD-Task.BLL.AssemblyInfo.cs
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\obj\Debug\net8.0\CRUD-Task.BLL.csproj.CoreCompileInputs.cache
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\obj\Debug\net8.0\CRUD-Tas.B8428AC3.Up2Date
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\obj\Debug\net8.0\CRUD-Task.BLL.dll
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\obj\Debug\net8.0\refint\CRUD-Task.BLL.dll
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\obj\Debug\net8.0\CRUD-Task.BLL.pdb
+G:\Projects_c#\CRUD-Task.PL\CRUD-Task.BLL\obj\Debug\net8.0\ref\CRUD-Task.BLL.dll
